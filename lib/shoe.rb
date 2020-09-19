@@ -15,4 +15,4 @@ attr_accessor = :color, :size, :material, :condition
   
 end
 
-Shoe.new="Nike"
+Shoe.new(Nike)
